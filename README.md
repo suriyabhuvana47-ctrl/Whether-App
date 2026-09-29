@@ -1,4 +1,4 @@
-# Whether-App
+# Weather-App
 Community Link :
 https://www.figma.com/community/file/1686685338538377555
 Prototype Link :
